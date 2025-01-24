@@ -1,6 +1,5 @@
 # TextSummarization
 
-### README Description for the Project
 
 **YouTube Transcript Summarization using PyTorch**  
 
